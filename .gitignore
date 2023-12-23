@@ -20,3 +20,5 @@ TheAddictionYouDidntKnowYouHad.mp3
 .idea/misc.xml
 src/nohup.out
 src/config.py
+.venv/Lib/site-packages/_distutils_hack/__init__.py
+.venv/
